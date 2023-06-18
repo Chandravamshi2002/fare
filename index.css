@@ -1,0 +1,52 @@
+
+h1{
+    color: aliceblue;
+    background: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+}
+    
+
+.container{
+    width: 40%;
+    margin: auto;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+.main{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.login_form{
+    padding-bottom: 15px;
+    padding-left: 42%;
+    
+}
+.login_form label{
+    display: block;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button1 input[type="button"]{
+    background-color: rgb(6, 101, 156);
+    color: azure;
+    margin-left: 47%;
+    padding: 5px 10px;
+}
+.button2 {
+    margin-left: 46%;
+}
+.button1{
+    margin-left: 46%;
+}
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 10px;
+    background-color: black;
+    color: red;
+    border-radius: 5px;
+
+}
+

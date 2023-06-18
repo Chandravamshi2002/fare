@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    background-color: #a3842c;
+    color: #fff;
+}
+
+.container{
+    width: 500px;
+    text-align: center;
+    margin-left: 30%;
+    padding: 10px 0px;
+    background-color: #a3842c;
+    border-radius: 10px;
+    
+}
+h2{
+    border-bottom: 1px solid #fff;
+    color:#fff
+}
+.text input{
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid #fff;
+    
+    outline: none;
+    background: transparent;
+    color: #fff;
+
+
+}
+::placeholder{
+    text-align: center;
+    color: #fff;
+}
+.button input{
+    color: #a3842c;
+    background-color: #fff;
+
+}
+.button :hover{
+    color: black;
+}
